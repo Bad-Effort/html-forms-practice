@@ -1,0 +1,32 @@
+div {
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.full-name {
+    margin-left: 10px;
+}
+
+.full-name input{
+    width: 98%;
+    margin-right: 10px;
+}
+
+.email-address{
+    margin-left: 10px;
+}
+
+.email-address input{
+    width: 98%;
+    margin-right: 10px;
+}
+
+.your-message {
+    margin-left: 10px;
+}
+
+.your-message textarea {
+    height: 120px;
+    width: 98%;
+    margin-right: 10px;
+}
